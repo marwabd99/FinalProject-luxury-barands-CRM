@@ -1,4 +1,4 @@
-# 🛒 FFinalProject - מערכת CRM לניהול חנות אונליין
+# 🛒 FinalProject - מערכת CRM לניהול חנות אונליין
 
 מערכת CRM מתקדמת לניהול חנות אונליין, הכוללת ניהול מוצרים, משתמשים והזמנות, דשבורד אינטראקטיבי, הרשמה והתחברות, חיפוש מתקדם ותמיכה מלאה בנגישות.
 
